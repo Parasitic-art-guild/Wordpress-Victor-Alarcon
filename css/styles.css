@@ -1,0 +1,128 @@
+﻿/*Serie cuadrados originales en 400px 400px*/
+
+
+* {
+	list-style: none;
+	font-weight: 900;
+}
+
+/*  Color al fondo de todo el documento */
+html {
+	background-color: black;
+}
+
+/*Ajusta tamaño de la serie */
+
+img {
+	height: 100px;
+	width: 100px;
+}
+
+
+
+/*'En cualquiera que se le coloque color, rellena la figura hasta los 150px por lado*/
+
+img {
+	padding: 25px;
+}
+
+img {
+	border: 10px;
+}
+
+/* Separa la imagen una de otra*/
+img {
+	margin: 80px;
+	background-color: red;
+}
+
+#DIFERENCIA-IMAGEN-3A {
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	margin: 100px;
+	border: 20px;
+	padding: 30px;
+}
+
+/*Caja*/
+/* "li" con 1000 x 1000 realiza cuatro cajas, 
+
+si lo coloco en "ul" realizo una caja de 1000 x 1000 y coloco el codigo "flex-direction: column;" los elementos
+se  deberia formar en columnas, pero en este caso los elementos se forman en filas row.
+si lo coloco en "body" los elementos dentro de "li"  se forman en filas row y colocar el codigo "flex-direction: "
+no ejerce cambio en las imagenes
+*/
+
+#CONTENEDOR-FLEX {
+	/* 202308200928COP Hacer pruebas intercambiando display */
+	display: inline-flex;
+	/* Coloca los items en forma vertical con "ul" */
+	width: 1000px;
+	height: 1000px;
+	background-color: yellow;
+	justify-content: space-around;
+	/* distribulle las imagenes lo mejor posible dentro del cuadro amarillo, deja
+	 espacio de cada grupo de imagenes a la derecha y a la izquierda, ademas cambio la
+	 distribucion, la primera imagen inicia arriba y los siguientes abajo y de izquierda
+	 a derecha */
+	align-items: end;
+	/*inicia el posicionamiento de las imagenes desde el eje de abajo hacia arriba,
+	 en este caso 4b y 5b no se logran ver, pero si elimino este codigo las imagenes 
+	 se distribullen de arriba hacia abajo, 4b y 5b si se ven pero fuera del cuadro 
+	 amarillo  */
+	flex-grow: 1;
+	/* "row-reverse" coloca la primera imagen a la derecha y las siguientes a la izquierda */
+	flex-direction: row-reverse;
+	/* "flex-wrap: wrap" como no caben las imagenes entonces las coloca en la siguiente linea de abajo
+	 al colocar este codigo la alineacion de los item ocurre en la horizontal*/
+	flex-wrap: wrap;
+	/* Esta propiedad sólo aplica cuando dispones de varias líneas de elementos en el contenedor flexbox.*/
+	align-content: flex-start;
+}
+
+
+
+
+.LETRAS-ESTILO-A {
+	color: blue;
+	font-size: 40px;
+	background-color: azure;
+	margin: 2px;
+	padding: 5px;
+}
+
+.LETRAS-ESTILO-B {
+	color: black;
+	font-size: 80px;
+	background-color: grey;
+	margin: 2px;
+	padding: 5px;
+	align-self: flex-start;
+
+
+}
+
+.LETRAS-ESTILO-C {
+	color: black;
+	font-size: 50px;
+	background-color: blue;
+	margin: 2px;
+	padding: 5px;
+
+}
+
+#CONTENEDOR-FLEX-A {
+	/* 202308200928COP Hacer pruebas intercambiando display */
+	display: inline-flex;
+	width: 3000px;
+	height: 1500px;
+	background-color: pink;
+	/*El eje es vertical*/
+	flex-direction: column-reverse;
+	/*Coloca los items en la parte central de la linea horizontal*/
+	align-items: center;
+	justify-content: space-around;
+	
+	
+}
