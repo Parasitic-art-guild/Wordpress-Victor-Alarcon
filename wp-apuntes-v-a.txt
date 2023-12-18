@@ -1,0 +1,65 @@
+11/10/2023
+https://www.alexiaarthurs.com/
+
+29/10/2023
+Color 1
+Azul número #49c1f5
+Color 2
+Amarillo número #ffc515
+
+Google fonts:
+
+Tipo de letra para el logo-nombre
+Bebas Neue
+
+Tipo de letra para el cuerpo
+Roboto condensed
+
+Contenido:
+
+Bio
+Libros
+Talleres
+Blog
+Eventos
+Prensa
+Contacto
+
+17/12/2023
+Explicacion sobre la combinacion de colores.
+https://spinthewheel.io/es/wheel-colours
+
+En este site se puede generar una paleta de colores http://colormind.io/ desde dos.
+Opcion 1
+33252e
+ae562f
+ae562f
+ffc515*
+49c1f5*
+Opcion 2
+ffc515*
+de993a
+a49463
+46bfb5
+49c1f5*
+Opcion 3
+ffc515*
+49c1f5*
+1ebaaa
+66ae89
+6c313a
+Opcion 4
+27d3b9
+49c1f5*
+ffc515*
+e56353
+724d54
+
+1712/2023 23:21 COP.
+Esta linea se crea para observar consecuencias mientras realizo curso de Git.
+Tambien tome la desicion de crear una encuesta para los clientes de los site
+que construlla con Wordpress.
+
+
+
+
