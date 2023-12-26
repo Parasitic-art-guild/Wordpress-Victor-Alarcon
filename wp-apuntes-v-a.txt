@@ -1,7 +1,5 @@
 11/10/2023
 https://www.alexiaarthurs.com/
-	0:07 18/12/2023 Usa https://ogp.me/   |  https://youtu.be/y3Vl5ABBN2c?si=xkH6aoSO5kXfa-Pv  | 		https://www.scribd.com/doc/30715288/The-Open-Graph-Protocol-Design-Decisions
-	|  https://es.wordpress.org/plugins/opengraph/
 
 29/10/2023
 Color 1
@@ -57,52 +55,10 @@ ffc515*
 e56353
 724d54
 
-17/12/2023 23:21 COP.
+1712/2023 23:21 COP.
 Esta linea se crea para observar consecuencias mientras realizo curso de Git.
 Tambien tome la desicion de crear una encuesta para los clientes de los site
 que construlla con Wordpress.
-
-18/12/2023 18:28 COP.
-Linea realizada para prueba de git.
-
-19/12/2023 04:10 COP.
-Linea realizada para prueba de git #2.
-
-4:17 19/12/2023 COP.
-
-Linea realizada para prueba de git #3.
-
-4:26 19/12/2023 COP.
-
-Linea realizada para prueba de git #4.
-
-4:42 19/12/2023 COP.
-
-Linea realizada para prueba de git #5.
-
-19:16 20/12/2023
-
-Linea realizada para prueba de git #10.
-
-18:49 21/12/2023
-
-Linea realizada para prueba de git #11. Las lineas 6 a 9 no fueron creadas.
-
-19:17 22/12/2023 COP
-
-Linea realizada para pruebas de git #12.
-
-22:46 25/12/2023 COP
-
-Linea realizada para pruebas de git #13.
-
-
-
-
-
-
-
-
 
 
 
