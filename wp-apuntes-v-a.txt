@@ -63,3 +63,7 @@ que construlla con Wordpress.
 
 
 
+00:05 26/12/2023 COP
+Creacion de linea #14 como accion luego de regrear a la version
+ dbece94decaa418e06e456c11d878e7d93f554f5 en la que no se habia 
+ creado las lineas hasta la 13. 
