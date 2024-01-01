@@ -10,6 +10,13 @@
 html {
 	background-color: black;
 }
+header {
+	font-size: 40px;
+	background-color: white;
+	color: aqua;
+
+
+}
 
 /*Ajusta tamaño de la serie */
 
