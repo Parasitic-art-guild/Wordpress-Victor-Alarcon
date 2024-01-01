@@ -11,13 +11,13 @@ html {
 	background-color: black;
 }
 header {
+	display: inline-flex;
 	font-size: 40px;
 	background-color: white;
-	color: aqua;
-
-
+	color: black;
+	height: auto;
+	
 }
-
 /*Ajusta tamaño de la serie */
 
 img {
