@@ -1,0 +1,65 @@
+commit 5ac04324e1f7a3d62d6f77267f76ff35f5636bb7
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Wed Dec 27 04:11:28 2023 -0500
+
+    creacion linea #15
+
+commit 10c62557bfae837ab85b8ea4900e8c61aee1e20e
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Tue Dec 26 00:07:47 2023 -0500
+
+    creacion linea 14 volver a la version sin lineas de prueba
+
+commit 14d05bd67dc6e44e361d493131a0d32c276216dd
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Tue Dec 26 00:07:26 2023 -0500
+
+    creacion linea 14 volver a la version sin lineas de prueba
+
+commit 20b0afa9c4813e10541ec179170ce08ea0e4133e
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Mon Dec 25 23:57:35 2023 -0500
+
+    con adicion de linea 13
+
+commit 7f95f7ce7b7db339b8adc24d0d9ead7dd4dbf1c7
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Thu Dec 21 18:50:34 2023 -0500
+
+    Adicion de linea #11
+
+commit 89e10e336242ae6be16b8fa396338ac62cc0fe8e
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Wed Dec 20 19:40:26 2023 -0500
+
+    prueba
+
+commit 2ce45912bd392dd4d89a7bfab360e5496ef2071e
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Wed Dec 20 18:55:05 2023 -0500
+
+    cambios que no recuerdo
+
+commit 953cfffeea64a207485279f60d02931e88e11b8e
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Wed Dec 20 18:47:57 2023 -0500
+
+    Adicion de archivos de pagina html, ccs e imagenes
+
+commit 9b76a900fe9d8014e29d018542268214a1b5e0f7
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Tue Dec 19 04:45:15 2023 -0500
+
+    adicione linea 5, tambien desde una copia pegue lo que habia hecho antes del hard reset
+
+commit dbece94decaa418e06e456c11d878e7d93f554f5
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Tue Dec 19 04:37:51 2023 -0500
+
+    Ver si recupera linea 4 luego de reset hard
+
+commit 695b88491eeeca4fdb970e7668871cc0ae72c2c3
+Author: Parasitic-art-guild <plan.mantenimiento.industrial@gmail.com>
+Date:   Sun Dec 17 23:49:38 2023 -0500
+
+    inicil en git

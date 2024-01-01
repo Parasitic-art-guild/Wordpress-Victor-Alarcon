@@ -71,3 +71,6 @@ Creacion de linea #14 como accion luego de regrear a la version
 
 04:07 27/12/2023 COP
 Creacion linea  #15
+
+ 04:17 27/12/2023 COP
+Creacion linea  #16

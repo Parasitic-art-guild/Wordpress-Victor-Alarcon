@@ -58,8 +58,8 @@ no ejerce cambio en las imagenes
 	/* 202308200928COP Hacer pruebas intercambiando display */
 	display: inline-flex;
 	/* Coloca los items en forma vertical con "ul" */
-	width: 1000px;
-	height: 1000px;
+	width: 900px;
+	height: 900px;
 	background-color: yellow;
 	justify-content: space-around;
 	/* distribulle las imagenes lo mejor posible dentro del cuadro amarillo, deja
@@ -115,8 +115,8 @@ no ejerce cambio en las imagenes
 #CONTENEDOR-FLEX-A {
 	/* 202308200928COP Hacer pruebas intercambiando display */
 	display: inline-flex;
-	width: 3000px;
-	height: 1500px;
+	width: 900px;
+	height: 900px;
 	background-color: pink;
 	/*El eje es vertical*/
 	flex-direction: column-reverse;
