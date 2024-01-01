@@ -14,8 +14,8 @@ html {
 header {
 	display: inline-flex;
 	font-size: 40px;
-	background-color: white;
-	color:gray;
+	background-color: black;
+	color: blanchedalmond;
 	height: auto;
 
 }
