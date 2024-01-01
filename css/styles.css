@@ -10,14 +10,16 @@
 html {
 	background-color: black;
 }
+
 header {
 	display: inline-flex;
 	font-size: 40px;
 	background-color: white;
 	color: black;
 	height: auto;
-	
+
 }
+
 /*Ajusta tamaño de la serie */
 
 img {
@@ -130,6 +132,17 @@ no ejerce cambio en las imagenes
 	/*Coloca los items en la parte central de la linea horizontal*/
 	align-items: center;
 	justify-content: space-around;
-	
-	
+}
+
+#CONTENEDOR-FLEX-C {
+	/* 202308200928COP Hacer pruebas intercambiando display */
+	display: inline-flex;
+	width: auto;
+	height: auto;
+	background-color: white;
+	/*El eje es vertical*/
+	flex-direction: column-reverse;
+	/*Coloca los items en la parte central de la linea horizontal*/
+	align-items: center;
+	justify-content: space-around;
 }
