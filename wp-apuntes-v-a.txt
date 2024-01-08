@@ -74,3 +74,14 @@ Creacion linea  #15
 
  04:17 27/12/2023 COP
 Creacion linea  #16
+
+
+16:36 08/01/2024
+Link del respositorio
+https://github.com/Parasitic-art-guild/Wordpress-Victor-Alarcon.git
+
+SSH
+git@github.com:Parasitic-art-guild/Wordpress-Victor-Alarcon.git
+
+Git Hub Cli
+gh repo clone Parasitic-art-guild/Wordpress-Victor-Alarcon
