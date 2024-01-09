@@ -11,6 +11,7 @@ html {
 	background-color: black;
 }
 
+<<<<<<< HEAD
 header {
 	display: inline-flex;
 	font-size: 40px;
@@ -20,6 +21,8 @@ header {
 
 }
 
+=======
+>>>>>>> b9692fa87d863dbe10b6f894d52fe65b6348da2c
 /*Ajusta tamaño de la serie */
 
 img {
@@ -67,8 +70,13 @@ no ejerce cambio en las imagenes
 	/* 202308200928COP Hacer pruebas intercambiando display */
 	display: inline-flex;
 	/* Coloca los items en forma vertical con "ul" */
+<<<<<<< HEAD
 	width: 900px;
 	height: 900px;
+=======
+	width: 1000px;
+	height: 1000px;
+>>>>>>> b9692fa87d863dbe10b6f894d52fe65b6348da2c
 	background-color: yellow;
 	justify-content: space-around;
 	/* distribulle las imagenes lo mejor posible dentro del cuadro amarillo, deja
@@ -124,14 +132,20 @@ no ejerce cambio en las imagenes
 #CONTENEDOR-FLEX-A {
 	/* 202308200928COP Hacer pruebas intercambiando display */
 	display: inline-flex;
+<<<<<<< HEAD
 	width: 900px;
 	height: 900px;
+=======
+	width: 3000px;
+	height: 1500px;
+>>>>>>> b9692fa87d863dbe10b6f894d52fe65b6348da2c
 	background-color: pink;
 	/*El eje es vertical*/
 	flex-direction: column-reverse;
 	/*Coloca los items en la parte central de la linea horizontal*/
 	align-items: center;
 	justify-content: space-around;
+<<<<<<< HEAD
 }
 
 #CONTENEDOR-FLEX-C {
@@ -145,4 +159,8 @@ no ejerce cambio en las imagenes
 	/*Coloca los items en la parte central de la linea horizontal*/
 	align-items: center;
 	justify-content: space-around;
+=======
+	
+	
+>>>>>>> b9692fa87d863dbe10b6f894d52fe65b6348da2c
 }

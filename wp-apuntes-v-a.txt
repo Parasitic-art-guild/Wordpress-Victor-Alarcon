@@ -83,5 +83,5 @@ https://github.com/Parasitic-art-guild/Wordpress-Victor-Alarcon.git
 SSH
 git@github.com:Parasitic-art-guild/Wordpress-Victor-Alarcon.git
 
-Git Hub Cli
+Git Hub CLI
 gh repo clone Parasitic-art-guild/Wordpress-Victor-Alarcon
