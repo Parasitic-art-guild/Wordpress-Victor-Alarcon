@@ -85,3 +85,6 @@ git@github.com:Parasitic-art-guild/Wordpress-Victor-Alarcon.git
 
 Git Hub CLI
 gh repo clone Parasitic-art-guild/Wordpress-Victor-Alarcon
+
+15/01/2024
+Wordpress-Karina-Valleverde copia el repositorio desde la internet GitHub.
