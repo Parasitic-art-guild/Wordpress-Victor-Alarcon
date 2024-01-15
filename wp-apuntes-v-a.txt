@@ -91,3 +91,6 @@ Wordpress-Karina-Valleverde copia el repositorio desde la internet GitHub.
 
 15/01/2024
 Se agrega esta linea desde Wordpress-Victor-Alarcon
+
+15/01/2024
+Ingreso de nueva linea desde Wordpress-Victor-Alarcon en disco G, el anterior ejercicio intentado en disco G no funciono.
