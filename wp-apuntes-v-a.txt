@@ -92,5 +92,18 @@ Wordpress-Karina-Valleverde copia el repositorio desde la internet GitHub.
 15/01/2024
 Se agrega esta linea desde Wordpress-Victor-Alarcon
 
+
+6:11 31/01/2024
+SE crea el folder Wordpress-C-A en otra area de trabajo de la computadora y se clona el archivo. Esta linea es una prueba. El repositorio anterior se va a borrar. KWordpress-Karina-Valleverde
+
+
+16:18 01/02/2024
+
+Continuamos con querer subir cambio en repositorio a Github
+
+
+
+
+
 15/01/2024
 Ingreso de nueva linea desde Wordpress-Victor-Alarcon en disco G, el anterior ejercicio intentado en disco G no funciono.
